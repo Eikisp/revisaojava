@@ -1,0 +1,12 @@
+Exercício 1- Mapeando e Classificando Requisitos
+1. Requisitos não funcionais podem comprometer os requisitos funcionais? Justifique e dê um exemplo
+R:  Sim, por exemplo a segurança de um sistema sendo um requisito não funcional afeta diretamente o login de usuários que é um requisito funcional, no caso afeta no sentido da pessoa não querer cadastrar ou muito menos recomendar o uso do sistema a outros.
+2. Porque é importante validar os requisitos antes de passarmos para a próxima fase do processo de desenvolvimento de software? 
+R: Para saber quais as necessidades a serem cumpridas no desenvolvimento do sistema.
+3. Quais os critérios podem ser utilizados para validar requisitos?
+R: Testar se os requisitos estão sendo cumpridos corretamente a partir de protótipos.
+4. Quem participa da validação de requisitos?
+R: Principalmente o cliente o qual vai dizer se é realmente o que ele queria.
+
+
+
